@@ -12,6 +12,8 @@ public class Estudante {
     }
 
     //Metodos
+
+    //inserir notas
     public void insereNotas(){
         Scanner scanner = new Scanner(System.in);
         for(int i = 0; i < 5; i++){
@@ -20,4 +22,16 @@ public class Estudante {
         }
     }
 
+    //Getters
+    Public String GetNome (){
+        return nome;
+    }
+    public double[] getNotas (){
+        return notas[];
+    }
+
+    //Setters
+    public String setNome(nome){
+        this.nome = nome;
+    }
 }
