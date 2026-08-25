@@ -14,7 +14,6 @@ public class Estudante {
     }
 
     //Metodos
-
     //inserir notas
     public void insereNotas(){
         Scanner scanner = new Scanner(System.in);
@@ -23,7 +22,24 @@ public class Estudante {
             notas[i] = scanner.nextDouble;
         }
     }
-
+    // funcao calcular media
+    public double calculaMedia(){
+        double soma = 0;
+        for(int i = 0; i < 5; i++){
+            soma += notas[i];
+        }
+        return soma / notas.length;
+    }
+    // funcao calcular menor nota
+    public double calculaMenorNota(){
+        double menor = notas[0];
+        for(int i = 1; i < notas.length; i++){
+            if(notas[i] < menor){
+                menor = notas[i];
+            }
+        }
+        return menor;
+    }
     //Getters
     public String GetNome (){
         return nome;
