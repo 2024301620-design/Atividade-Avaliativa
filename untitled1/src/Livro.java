@@ -1,4 +1,4 @@
-public class Livro {
+public class Livro extends Obra {
     private String titulo;
     private Boolean isDisponivel;
 
@@ -11,16 +11,10 @@ public class Livro {
         this.isDisponivel = true;
     }
 
-   public String getTitulo(){
-        return titulo;
-    }
     public Boolean getIsDisponivel(){
         return isDisponivel;
     }
 
-    public void setTitulo(String titulo){
-       this.titulo = titulo;
-    }
     public void setSituacao(Boolean isDisponivel){
         this.isDisponivel = isDisponivel;
     }

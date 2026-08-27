@@ -1,6 +1,5 @@
-public class Periodico {
+public class Periodico extends Obra{
 
-    private String titulo;
     private int volume;
 
     public void Periodico (){
@@ -12,16 +11,10 @@ public class Periodico {
         this.volume = 0;
     }
 
-    public String getTitulo(){
-        return titulo;
-    }
     public int getVolume(){
         return volume;
     }
 
-    public void setTitulo(String titulo){
-        this.titulo = titulo;
-    }
     public void setVolume(int volume){
         this.volume = volume;
 
