@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="848c862d-1a48-46e7-9634-f8bb48cefd4a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Aprovados.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estudante.java" afterDir="false" />
-    </list>
+    <list default="true" id="848c862d-1a48-46e7-9634-f8bb48cefd4a" name="Changes" comment="Organização: Arquivos colocados em uma pasta para não ficarem soltos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +165,8 @@
     <MESSAGE value="Relação de Herança de Livro e Periodico com Obra" />
     <MESSAGE value="Limpeza da branch main" />
     <MESSAGE value="Organização da pasta: Arquivos colocados em uma pasta para não ficarem soltos" />
-    <option name="LAST_COMMIT_MESSAGE" value="Organização da pasta: Arquivos colocados em uma pasta para não ficarem soltos" />
+    <MESSAGE value="Organização: Arquivos colocados em uma pasta para não ficarem soltos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organização: Arquivos colocados em uma pasta para não ficarem soltos" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
