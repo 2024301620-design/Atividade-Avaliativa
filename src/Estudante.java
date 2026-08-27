@@ -30,6 +30,18 @@ public class Estudante {
         }
         return soma / notas.length;
     }
+    // funcao calcular media ponderada
+    public double calculaMedia(int[] pesos){
+        double somaPonderada = 0;
+        int somaPesos = 0;
+
+        for(int i = 0; i < notas.length; i++){
+            somaPonderada += notas[i] * pesos[i];
+            somaPesos += pesos[i];
+        }
+        somaPonderada = somaPonderada / somaPesos
+        return somaPonderada;
+    }
     // funcao calcular menor nota
     public double calculaMenorNota(){
         double menor = notas[0];
