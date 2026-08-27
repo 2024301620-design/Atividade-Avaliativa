@@ -1,5 +1,3 @@
-package src;
-
 import java.util.Scanner;
 
 public class Estudante {
@@ -18,8 +16,8 @@ public class Estudante {
     public void insereNotas(){
         Scanner scanner = new Scanner(System.in);
         for(int i = 0; i < 5; i++){
-            System.out.println("Insira a " + i+1 + "° nota: ");
-            notas[i] = scanner.nextDouble;
+            System.out.println("Insira a " + (i+1) + "° nota: ");
+            notas[i] = scanner.nextDouble();
         }
     }
     // funcao calcular media
@@ -39,7 +37,7 @@ public class Estudante {
             somaPonderada += notas[i] * pesos[i];
             somaPesos += pesos[i];
         }
-        somaPonderada = somaPonderada / somaPesos
+        somaPonderada = somaPonderada / somaPesos;
         return somaPonderada;
     }
     // funcao calcular menor nota
@@ -52,16 +50,42 @@ public class Estudante {
         }
         return menor;
     }
+
+    public static Estudante[] getAprovados(Estudante[] estudantes){
+        int quantAprovados = 0;
+
+        for(int i = 0; i < estudantes.length; i++){
+            if(estudantes[i].calculaMedia() >= 6){
+                quantAprovados++;
+            }
+        }
+
+        if(quantAprovados == 0){
+            return null;
+        }
+
+        Estudante[] aprovados = new Estudante[quantAprovados];
+        int indice = 0;
+        for(int i = 0; i < estudantes.length; i++){
+            if(estudantes[i].calculaMedia() >= 6){
+                aprovados[indice] = estudantes[i];
+                indice++;
+            }
+        }
+
+        return aprovados;
+    }
+
     //Getters
-    public String GetNome (){
+    public String getNome (){
         return nome;
     }
     public double[] getNotas (){
-        return notas[].class;
+        return notas;
     }
 
     //Setters
-    public String setNome(String nome){
+    public void setNome(String nome){
         this.nome = nome;
     }
 }
