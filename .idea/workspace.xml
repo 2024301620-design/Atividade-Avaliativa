@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="848c862d-1a48-46e7-9634-f8bb48cefd4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/Aprovados.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled/Estudante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Estudante.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    },
+    {
+      &quot;assignee&quot;: &quot;2024301620-design&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {}
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: [
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOTvxZ8s7-jV7K&quot;,
+        &quot;number&quot;: 2
+      },
+      &quot;lastSeen&quot;: 1787698415622
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOTvxZ8s7-jL9S&quot;,
+        &quot;number&quot;: 1
+      },
+      &quot;lastSeen&quot;: 1787699129085
+    },
+    {
+      &quot;id&quot;: {
+        &quot;id&quot;: &quot;PR_kwDOTvxZ8s8AAAABBQcp-A&quot;,
+        &quot;number&quot;: 3
+      },
+      &quot;lastSeen&quot;: 1787862310830
+    }
+  ]
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/2024301620-design/Atividade-Avaliativa.git&quot;,
+    &quot;accountId&quot;: &quot;8d14c622-f35d-4954-8f91-4583e0f86495&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;2024301620-design&quot;,
+    &quot;repository&quot;: &quot;Atividade-Avaliativa&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3IQUpGPTXh8QnNVRKUAQdFixKma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Application.src.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Docker.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Pichau/IdeaProjects/Atividade-Avaliativa/untitled1/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pichau\IdeaProjects\Atividade-Avaliativa" />
+      <recent name="C:\Users\Pichau\IdeaProjects\Atividade-Avaliativa\src" />
+      <recent name="C:\Users\Pichau\IdeaProjects\Atividade-Avaliativa\src\Lampada" />
+      <recent name="C:\Users\Pichau\IdeaProjects\Atividade-Avaliativa\src\Formula1" />
+      <recent name="C:\Users\Pichau\IdeaProjects\Atividade-Avaliativa\untitled1\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="Main.java" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="848c862d-1a48-46e7-9634-f8bb48cefd4a" name="Changes" comment="" />
+      <created>1787696467939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787696467939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Metodo para descobrir os estudantes aprovados" />
+    <MESSAGE value="Continuação da Atividade do Estudante.&#10;Criação do metodo calculaMedia e calculaMenorNota" />
+    <MESSAGE value="Sobrecarga da função calcularMedia &#10;-Adiciona a opção da media ponderada" />
+    <MESSAGE value="Criação das Classes Livro e Periodico:&#10;Definição de seus atributos e métodos, incluindo contrutores, getters e setter" />
+    <MESSAGE value="Remoção da Main.java" />
+    <MESSAGE value="Função getAprovador (descobrir os estudantes aprovados) foi reformulada para ser uma função de Estudante, e não outra classe" />
+    <MESSAGE value="Relação de Herança de Livro e Periodico com Obra" />
+    <MESSAGE value="Limpeza da branch main" />
+    <MESSAGE value="Organização da pasta: Arquivos colocados em uma pasta para não ficarem soltos" />
+    <option name="LAST_COMMIT_MESSAGE" value="Organização da pasta: Arquivos colocados em uma pasta para não ficarem soltos" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
